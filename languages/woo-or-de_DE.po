@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Online-Rechnungen.de\n"
+"POT-Creation-Date: 2017-03-02 11:16+0200\n"
+"PO-Revision-Date: 2018-07-20 12:16+0300\n"
+"Last-Translator: Stefanos Stvakis <stvakis@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Company"
+msgstr "Firma"
+
+msgid "Firstname"
+msgstr "Vorname"
+
+msgid "Lastname"
+msgstr "Nachname"
+
+msgid "Street"
+msgstr "Straße"
+
+msgid "Street Number"
+msgstr "Hausnummer"
+
+msgid "Postal"
+msgstr "PLZ"
+
+msgid "City"
+msgstr "Ort"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Company Settings"
+msgstr "Firmendaten"
+
+msgid "Bank Settings"
+msgstr "Bankverbindung"
+
+msgid "System Settings"
+msgstr "Systemeinstellungen"
+
+msgid "Account number"
+msgstr "Konto-Nr"
+
+msgid "Invoice Prefix"
+msgstr "Rechnungs-Präfix"
+
+msgid "Invoice Suffix"
+msgstr "Rechnungs-Suffix"
+
+msgid "Invoice Increment Number"
+msgstr "Rechnungsnummer"
+
+msgid "Text Before"
+msgstr "Text am Rechnungsanfang"
+
+msgid "Text After"
+msgstr "Text am Rechnungsende"
+
+msgid "Order Date"
+msgstr "Bestelldatum"
+
+msgid "Order Number"
+msgstr "Bestellnummer"
+
+msgid "Create Invoice"
+msgstr "Rechnung erstellen"
+
+msgid "Preview Invoice"
+msgstr "Vorschau Rechnung"
+
+msgid "Delete Invoice"
+msgstr "Rechnung löschen"
+
+msgid "Download Invoice"
+msgstr "Rechnung herunterladen"
+
+msgid "File not found"
+msgstr "File not found"
